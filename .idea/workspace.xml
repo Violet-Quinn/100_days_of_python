@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="basic code practice fixed">
-      <change afterPath="$PROJECT_DIR$/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caeser_cypher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret_auction_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_100_days_of_bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_of_python.iml" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="updated 9 oct 2024">
+      <change afterPath="$PROJECT_DIR$/coffee_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-16_turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_18_turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/higher_lower_game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/higher_lower_game_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +53,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.blackjack.executor": "Run",
+    "Python.day-16_turtle.executor": "Run",
+    "Python.day_18_turtle.executor": "Run",
     "Python.for_loops.executor": "Run",
+    "Python.guess_number.executor": "Run",
     "Python.hangman_game.executor": "Run",
+    "Python.higher_lower_game_main.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.scratch.executor": "Run",
+    "Python.testing_classes.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_island.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,7 +85,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -108,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725697511123</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated 9 oct 2024">
+      <option name="closed" value="true" />
+      <created>1728497926259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728497926260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic code practice" />
     <MESSAGE value="basic code practice fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic code practice fixed" />
+    <MESSAGE value="updated 9 oct 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated 9 oct 2024" />
   </component>
 </project>
