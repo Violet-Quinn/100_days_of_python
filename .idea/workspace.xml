@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="updated 9 oct 2024">
-      <change afterPath="$PROJECT_DIR$/coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16_turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_18_turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/higher_lower_game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/higher_lower_game_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing_classes.py" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 18">
+      <change afterPath="$PROJECT_DIR$/day_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake_game_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +53,8 @@
     "Python.blackjack.executor": "Run",
     "Python.day-16_turtle.executor": "Run",
     "Python.day_18_turtle.executor": "Run",
+    "Python.day_19.executor": "Run",
+    "Python.food.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.guess_number.executor": "Run",
     "Python.hangman_game.executor": "Run",
@@ -62,6 +62,8 @@
     "Python.password_generator.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.scratch.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.snake_game_main.executor": "Run",
     "Python.testing_classes.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_island.executor": "Run",
@@ -122,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728497926260</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="progress upto day 18">
+      <option name="closed" value="true" />
+      <created>1729103718220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729103718222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +150,7 @@
     <MESSAGE value="basic code practice" />
     <MESSAGE value="basic code practice fixed" />
     <MESSAGE value="updated 9 oct 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated 9 oct 2024" />
+    <MESSAGE value="progress upto day 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 18" />
   </component>
 </project>
