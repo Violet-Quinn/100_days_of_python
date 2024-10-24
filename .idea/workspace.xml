@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 18">
-      <change afterPath="$PROJECT_DIR$/day_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game_main.py" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 21">
+      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_crossing_car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_crossing_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_crossing_player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_crossing_scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,37 +51,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.blackjack.executor": "Run",
-    "Python.day-16_turtle.executor": "Run",
-    "Python.day_18_turtle.executor": "Run",
-    "Python.day_19.executor": "Run",
-    "Python.food.executor": "Run",
-    "Python.for_loops.executor": "Run",
-    "Python.guess_number.executor": "Run",
-    "Python.hangman_game.executor": "Run",
-    "Python.higher_lower_game_main.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.scratch.executor": "Run",
-    "Python.snake_game.executor": "Run",
-    "Python.snake_game_main.executor": "Run",
-    "Python.testing_classes.executor": "Run",
-    "Python.tip_calculator.executor": "Run",
-    "Python.treasure_island.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ultraviolet/PycharmProjects/100_days_of_python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-16_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_18_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.food.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.higher_lower_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pong_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_island.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ultraviolet/PycharmProjects/100_days_of_python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -132,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729103718222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="progress upto day 21">
+      <option name="closed" value="true" />
+      <created>1729708448477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729708448477</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +163,7 @@
     <MESSAGE value="basic code practice fixed" />
     <MESSAGE value="updated 9 oct 2024" />
     <MESSAGE value="progress upto day 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 18" />
+    <MESSAGE value="progress upto day 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 21" />
   </component>
 </project>
