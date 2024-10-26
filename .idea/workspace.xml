@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 23">
-      <change afterPath="$PROJECT_DIR$/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game_score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squirrel_census_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squirrel_count.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_100_days_of_bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_100_days_of_bootcamp.iml" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 25, updated code for snake game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-25-us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-25-us-states-game-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,42 +44,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-16_turtle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day24_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day_18_turtle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.food.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.higher_lower_game_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pong_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.squirrel_census_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing_classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.treasure_island.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ultraviolet/PycharmProjects/100_days_of_python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.blackjack.executor": "Run",
+    "Python.csv_main.executor": "Debug",
+    "Python.day-16_turtle.executor": "Run",
+    "Python.day24_main.executor": "Run",
+    "Python.day_18_turtle.executor": "Run",
+    "Python.day_19.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.guess_number.executor": "Run",
+    "Python.hangman_game.executor": "Run",
+    "Python.higher_lower_game_main.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pong_main.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.snake_game_main.executor": "Run",
+    "Python.squirrel_census_analysis.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.testing_classes.executor": "Run",
+    "Python.tip_calculator.executor": "Run",
+    "Python.treasure_island.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ultraviolet/PycharmProjects/100_days_of_python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -186,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729774838687</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="progress upto day 24, updated code for snake game">
+      <option name="closed" value="true" />
+      <created>1729949541618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729949541618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="progress upto day 25, updated code for snake game">
+      <option name="closed" value="true" />
+      <created>1729949644611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729949644611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +212,8 @@
     <MESSAGE value="progress upto day 18" />
     <MESSAGE value="progress upto day 21" />
     <MESSAGE value="progress upto day 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 23" />
+    <MESSAGE value="progress upto day 24, updated code for snake game" />
+    <MESSAGE value="progress upto day 25, updated code for snake game" />
+    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 25, updated code for snake game" />
   </component>
 </project>
