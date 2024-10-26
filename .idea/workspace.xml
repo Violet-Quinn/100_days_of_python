@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 21">
-      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pong_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pong_scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_crossing_car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_crossing_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_crossing_player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_crossing_scoreboard.py" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="progress upto day 23">
+      <change afterPath="$PROJECT_DIR$/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake_game_score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squirrel_census_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squirrel_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_100_days_of_bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_100_days_of_bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.day-16_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day24_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.day_18_turtle.executor&quot;: &quot;Run&quot;,
     &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
     &quot;Python.food.executor&quot;: &quot;Run&quot;,
@@ -68,6 +75,8 @@
     &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
     &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squirrel_census_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.testing_classes.executor&quot;: &quot;Run&quot;,
     &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.treasure_island.executor&quot;: &quot;Run&quot;,
@@ -88,10 +97,35 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="csv_main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_100_days_of_bootcamp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -144,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729708448477</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="progress upto day 23">
+      <option name="closed" value="true" />
+      <created>1729774838687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774838687</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +206,7 @@
     <MESSAGE value="updated 9 oct 2024" />
     <MESSAGE value="progress upto day 18" />
     <MESSAGE value="progress upto day 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 21" />
+    <MESSAGE value="progress upto day 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="progress upto day 23" />
   </component>
 </project>
