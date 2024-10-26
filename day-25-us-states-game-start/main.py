@@ -1,7 +1,6 @@
 import turtle
 import pandas
 
-
 screen=turtle.Screen()
 screen.title("US States Game")
 turtle.shape("circle")
