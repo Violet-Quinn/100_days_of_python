@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="us states game code updated, used list comprehension for reduced code">
-      <change afterPath="$PROJECT_DIR$/NATO-alphabet-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NATO-alphabet-start/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="NATO Phonetic alphabet Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729954906536</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="NATO Phonetic alphabet Code">
+      <option name="closed" value="true" />
+      <created>1730007886040</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730007886040</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +203,7 @@
     <MESSAGE value="progress upto day 24, updated code for snake game" />
     <MESSAGE value="progress upto day 25, updated code for snake game" />
     <MESSAGE value="us states game code updated, used list comprehension for reduced code" />
-    <option name="LAST_COMMIT_MESSAGE" value="us states game code updated, used list comprehension for reduced code" />
+    <MESSAGE value="NATO Phonetic alphabet Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="NATO Phonetic alphabet Code" />
   </component>
 </project>
