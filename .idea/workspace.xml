@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="NATO Phonetic alphabet Code" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="NATO Phonetic alphabet Code">
+      <change afterPath="$PROJECT_DIR$/miles_to_kilo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unlimited_positional_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets_tkinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +60,7 @@
     "Python.hangman_game.executor": "Run",
     "Python.higher_lower_game_main.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.miles_to_kilo.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.pong_main.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
@@ -66,6 +72,7 @@
     "Python.testing_classes.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_island.executor": "Run",
+    "Python.unlimited_positional_args.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
@@ -179,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730007886040</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="NATO Phonetic alphabet Code">
+      <option name="closed" value="true" />
+      <created>1730008139898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730008139898</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
