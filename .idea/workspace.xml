@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="NATO Phonetic alphabet Code">
-      <change afterPath="$PROJECT_DIR$/miles_to_kilo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unlimited_positional_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/widgets_tkinter.py" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="upto day 27, miles to kilometers convertor app using tkinter">
+      <change afterPath="$PROJECT_DIR$/pomodoro-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pomodoro-start/tomato.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730008139898</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="upto day 27, miles to kilometers convertor app using tkinter">
+      <option name="closed" value="true" />
+      <created>1730397592054</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730397592054</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +226,7 @@
     <MESSAGE value="progress upto day 25, updated code for snake game" />
     <MESSAGE value="us states game code updated, used list comprehension for reduced code" />
     <MESSAGE value="NATO Phonetic alphabet Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="NATO Phonetic alphabet Code" />
+    <MESSAGE value="upto day 27, miles to kilometers convertor app using tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="upto day 27, miles to kilometers convertor app using tkinter" />
   </component>
 </project>
