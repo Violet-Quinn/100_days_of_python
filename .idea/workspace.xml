@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="upto day 27, miles to kilometers convertor app using tkinter">
-      <change afterPath="$PROJECT_DIR$/pomodoro-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomodoro-start/tomato.png" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 28 pomodoro timer completed">
+      <change afterPath="$PROJECT_DIR$/password-manager-start/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-manager-start/logo0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-manager-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-manager-start/saved_pass.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,45 +47,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.blackjack.executor": "Run",
-    "Python.csv_main.executor": "Run",
-    "Python.day-16_turtle.executor": "Run",
-    "Python.day24_main.executor": "Run",
-    "Python.day_18_turtle.executor": "Run",
-    "Python.day_19.executor": "Run",
-    "Python.food.executor": "Run",
-    "Python.for_loops.executor": "Run",
-    "Python.guess_number.executor": "Run",
-    "Python.hangman_game.executor": "Run",
-    "Python.higher_lower_game_main.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.miles_to_kilo.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.pong_main.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.scratch.executor": "Run",
-    "Python.snake_game.executor": "Run",
-    "Python.snake_game_main.executor": "Run",
-    "Python.squirrel_census_analysis.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.testing_classes.executor": "Run",
-    "Python.tip_calculator.executor": "Run",
-    "Python.treasure_island.executor": "Run",
-    "Python.unlimited_positional_args.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ultraviolet/PycharmProjects/100_days_of_python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-16_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day24_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_18_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.food.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.higher_lower_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.miles_to_kilo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pong_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squirrel_census_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_island.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unlimited_positional_args.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ultraviolet/PycharmProjects/100_days_of_python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730397592054</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day 28 pomodoro timer completed">
+      <option name="closed" value="true" />
+      <created>1730465530127</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730465530127</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +237,7 @@
     <MESSAGE value="us states game code updated, used list comprehension for reduced code" />
     <MESSAGE value="NATO Phonetic alphabet Code" />
     <MESSAGE value="upto day 27, miles to kilometers convertor app using tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="upto day 27, miles to kilometers convertor app using tkinter" />
+    <MESSAGE value="day 28 pomodoro timer completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 28 pomodoro timer completed" />
   </component>
 </project>
