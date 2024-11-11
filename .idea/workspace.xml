@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 28 pomodoro timer completed">
-      <change afterPath="$PROJECT_DIR$/password-manager-start/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password-manager-start/logo0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password-manager-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password-manager-start/saved_pass.txt" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 29 complete, password manager with generator GUI app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/NATO-alphabet-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-manager-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730465530127</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day 29 complete, password manager with generator GUI app">
+      <option name="closed" value="true" />
+      <created>1731259933273</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731259933273</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +244,7 @@
     <MESSAGE value="NATO Phonetic alphabet Code" />
     <MESSAGE value="upto day 27, miles to kilometers convertor app using tkinter" />
     <MESSAGE value="day 28 pomodoro timer completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 28 pomodoro timer completed" />
+    <MESSAGE value="day 29 complete, password manager with generator GUI app" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 29 complete, password manager with generator GUI app" />
   </component>
 </project>
