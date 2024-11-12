@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 29 complete, password manager with generator GUI app">
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 30 complete, added exception handling in NATO alphabet main and password manager, also added search functionality in password manager.">
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/data/french_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-card-project-start/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/NATO-alphabet-start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/password-manager-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731259933273</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="day 30 complete, added exception handling in NATO alphabet main and password manager, also added search functionality in password manager.">
+      <option name="closed" value="true" />
+      <created>1731297082605</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731297082606</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +257,7 @@
     <MESSAGE value="upto day 27, miles to kilometers convertor app using tkinter" />
     <MESSAGE value="day 28 pomodoro timer completed" />
     <MESSAGE value="day 29 complete, password manager with generator GUI app" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 29 complete, password manager with generator GUI app" />
+    <MESSAGE value="day 30 complete, added exception handling in NATO alphabet main and password manager, also added search functionality in password manager." />
+    <option name="LAST_COMMIT_MESSAGE" value="day 30 complete, added exception handling in NATO alphabet main and password manager, also added search functionality in password manager." />
   </component>
 </project>
