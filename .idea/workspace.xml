@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 34 complete, quiz app with gui">
-      <change afterPath="$PROJECT_DIR$/habit_tracker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openweathertest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-normal-start/.project_config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-normal-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon-price-tracker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,49 +44,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-16_turtle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day24_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day_18_turtle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.food.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for-loop-practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.higher_lower_game_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.miles_to_kilo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.openweathertest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pong_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.squirrel_census_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing_classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.treasure_island.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ui.executor&quot;: &quot;Run&quot;,
-    &quot;Python.unlimited_positional_args.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ultraviolet/PycharmProjects/100_days_of_python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.blackjack.executor": "Run",
+    "Python.csv_main.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.day-16_turtle.executor": "Run",
+    "Python.day24_main.executor": "Run",
+    "Python.day_18_turtle.executor": "Run",
+    "Python.day_19.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.for-loop-practice.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.guess_number.executor": "Run",
+    "Python.hangman_game.executor": "Run",
+    "Python.higher_lower_game_main.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.miles_to_kilo.executor": "Run",
+    "Python.openweathertest.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pong_main.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.snake_game_main.executor": "Run",
+    "Python.squirrel_census_analysis.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.testing_classes.executor": "Run",
+    "Python.tip_calculator.executor": "Run",
+    "Python.treasure_island.executor": "Run",
+    "Python.ui.executor": "Run",
+    "Python.unlimited_positional_args.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ultraviolet/PycharmProjects/100_days_of_python",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -98,7 +95,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
