@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 34 complete, quiz app with gui">
-      <change afterPath="$PROJECT_DIR$/amazon-price-tracker/main.py" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 47 amazon price tracker">
+      <change afterPath="$PROJECT_DIR$/cookie-clicker-game-automation/alternate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie-clicker-game-automation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-test/interaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-test/text-fill-test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.alternate.executor": "Run",
     "Python.blackjack.executor": "Run",
     "Python.csv_main.executor": "Run",
     "Python.data.executor": "Run",
@@ -59,6 +64,7 @@
     "Python.guess_number.executor": "Run",
     "Python.hangman_game.executor": "Run",
     "Python.higher_lower_game_main.executor": "Run",
+    "Python.interaction.executor": "Run",
     "Python.main.executor": "Run",
     "Python.miles_to_kilo.executor": "Run",
     "Python.openweathertest.executor": "Run",
@@ -71,6 +77,7 @@
     "Python.squirrel_census_analysis.executor": "Run",
     "Python.test.executor": "Run",
     "Python.testing_classes.executor": "Run",
+    "Python.text-fill-test.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_island.executor": "Run",
     "Python.ui.executor": "Run",
@@ -260,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731905694420</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="day 47 amazon price tracker">
+      <option name="closed" value="true" />
+      <created>1741083571393</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741083571393</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +308,7 @@
     <MESSAGE value="day 32 complete, learned how to use smtp service to send email through python and datetime module" />
     <MESSAGE value="day 33 complete, iss overhead notifier project" />
     <MESSAGE value="day 34 complete, quiz app with gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 34 complete, quiz app with gui" />
+    <MESSAGE value="day 47 amazon price tracker" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 47 amazon price tracker" />
   </component>
 </project>
