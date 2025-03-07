@@ -1,7 +1,7 @@
 import pandas
 from pandas.core.interchange.dataframe_protocol import DataFrame
 
-data=pandas.read_csv("2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv")
+data=pandas.read_csv("2018CentralParkSquirrelCensusSquirrel.csv")
 gray_squirrels_count=len(data[data["Primary Fur Color"]=="Gray"])
 print(gray_squirrels_count)
 red_squirrels_count=len(data[data["Primary Fur Color"]=="Cinnamon"])
