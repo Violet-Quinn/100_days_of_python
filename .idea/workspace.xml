@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="flask basics and html and urls in flask and a high-lower game website">
-      <change afterPath="$PROJECT_DIR$/my-personal-site/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-personal-site/templates/angela.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-personal-site/templates/index.html" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 55 html templates practice">
+      <change afterPath="$PROJECT_DIR$/name-card/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725694022536</updated>
       <workItem from="1741847297408" duration="643000" />
-      <workItem from="1741865286418" duration="7878000" />
+      <workItem from="1741865286418" duration="8535000" />
     </task>
     <task id="LOCAL-00001" summary="basic code practice">
       <option name="closed" value="true" />
@@ -337,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742070295484</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="day 55 html templates practice">
+      <option name="closed" value="true" />
+      <created>1742294920125</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1742294920125</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,12 +384,13 @@
     <MESSAGE value="day 48 cookie clicker game automation project" />
     <MESSAGE value="day 53 zillow  google form data entry automation project - did not work due to google chrome preventing sign in on the new window opened by the program" />
     <MESSAGE value="flask basics and html and urls in flask and a high-lower game website" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask basics and html and urls in flask and a high-lower game website" />
+    <MESSAGE value="day 55 html templates practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 55 html templates practice" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_days_of_python$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1741847907759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100_days_of_python$snake_game_main.coverage" NAME="snake_game_main Coverage Results" MODIFIED="1741847842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/100_days_of_python$server.coverage" NAME="server Coverage Results" MODIFIED="1742280180877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my-personal-site" />
+    <SUITE FILE_PATH="coverage/100_days_of_python$server.coverage" NAME="server Coverage Results" MODIFIED="1742295635870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name-card" />
     <SUITE FILE_PATH="coverage/100_days_of_python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1741847685972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello-flask" />
     <SUITE FILE_PATH="coverage/100_days_of_python$main.coverage" NAME="main Coverage Results" MODIFIED="1742066609166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorator-test-html" />
   </component>
