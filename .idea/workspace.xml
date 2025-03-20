@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 56 name card website">
-      <change afterPath="$PROJECT_DIR$/day-57-starting-files-blog-templating/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-starting-files-blog-templating/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-starting-files-blog-templating/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-starting-files-blog-templating/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-starting-files-blog-templating/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-templating-with-jinja/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-templating-with-jinja/templates/guess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-57-templating-with-jinja/templates/index.html" afterDir="false" />
+    <list default="true" id="4961c584-2d97-464c-9e45-8ac1b4e6f49f" name="Changes" comment="day 57 blog with jinja templating">
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/css/solution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/features-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/footer-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/pricing-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/testimonial-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/title-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/bizinsider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/dog-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/mashable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/techcrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/tnw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/solution.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725694022536</updated>
       <workItem from="1741847297408" duration="643000" />
-      <workItem from="1741865286418" duration="13168000" />
+      <workItem from="1741865286418" duration="15484000" />
     </task>
     <task id="LOCAL-00001" summary="basic code practice">
       <option name="closed" value="true" />
@@ -361,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742319990745</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="day 57 blog with jinja templating">
+      <option name="closed" value="true" />
+      <created>1742495049791</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1742495049792</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,13 +419,14 @@
     <MESSAGE value="flask basics and html and urls in flask and a high-lower game website" />
     <MESSAGE value="day 55 html templates practice" />
     <MESSAGE value="day 56 name card website" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 56 name card website" />
+    <MESSAGE value="day 57 blog with jinja templating" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 57 blog with jinja templating" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_days_of_python$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1741847907759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100_days_of_python$snake_game_main.coverage" NAME="snake_game_main Coverage Results" MODIFIED="1741847842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100_days_of_python$server.coverage" NAME="server Coverage Results" MODIFIED="1742493058559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-57-templating-with-jinja" />
     <SUITE FILE_PATH="coverage/100_days_of_python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1741847685972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello-flask" />
-    <SUITE FILE_PATH="coverage/100_days_of_python$main.coverage" NAME="main Coverage Results" MODIFIED="1742493730190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-57-starting-files-blog-templating" />
+    <SUITE FILE_PATH="coverage/100_days_of_python$main.coverage" NAME="main Coverage Results" MODIFIED="1742494481097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-57-starting-files-blog-templating" />
   </component>
 </project>
