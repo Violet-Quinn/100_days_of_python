@@ -3,5 +3,5 @@ xFlask==2.0.3
 WTForms==3.0.1
 Flask_WTF==1.2.1
 xWerkzeug==3.0.0
-Jinja2==3.1.1
+xJinja2==3.1.1
 itsdangerous==2.0.1
