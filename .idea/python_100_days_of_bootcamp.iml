@@ -6,8 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../.venv" />
       <excludeFolder url="file://$MODULE_DIR$/day-60-starting-files-blog-with-contact-form/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/day-61-starting-files-flask-secrets/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/day-62-starting-files-coffee-and-wifi/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (PycharmProjects) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (PycharmProjects) (3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
